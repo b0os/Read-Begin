@@ -1,0 +1,28 @@
+#header, #org {
+    direction: ltr;
+}
+
+
+ .valid-icon, 
+ .invalid-icon,
+ .valid-icon-pass,
+ .invalid-icon-pass{
+  width: 23px;
+  position: absolute;
+  top: 50%;
+  right: 96%;
+  /* display: none; */
+}
+
+#eye-slash,
+#eye,
+#eye-re,
+#eye-slash-re{
+
+  width: 23px;
+  position: absolute;
+  top: 50%;
+  right: 94%;
+
+
+}

@@ -1,0 +1,40 @@
+<?php
+
+return [
+    'Create_account' => 'Create an Account',
+    'Full_Name' => 'Full Name',
+    'username' => 'Username',
+    'Email' => 'Email',
+    'Password' => 'Password',
+    'PassCheckLetters' => 'Must be 8 characters at least',
+    'Confirm_password' => 'Confirm Password',
+    'Address' => 'Address',
+    'Phone' => 'Phone Number',
+    'Birthdate' => 'Birthdate',
+    'Personal_Photo' => 'Personal Photo',
+    'Policy_agree' => 'By creating an account means you agree to the Terms and Conditions, and our Privacy Policy',
+    'SignUp_btn' => 'Sign Up',
+    'Fullname_pls' => 'Enter your full name',
+    'Username_pls' => 'Enter your username',
+    'Email_pls' => 'Enter your email',
+    'Password_pls' => 'Enter your password',
+    'RePassword_pls' => 'Re-enter your password',
+    'Address_pls' => 'Enter your address',
+    'Phone_pls' => 'Enter your phone number',
+    'Photo_pls' => 'No photo uploaded',
+    'actor_Birthdate' => 'Who else Birthdate',
+    'actors_Text1' => 'Actors were also born on this day',
+    'Actor_select_bd_first' => 'Please select your birthdate and search',
+    'close' => 'close',
+    'copyRights' => 'Copyright.All Rights Resered.' ,
+    'sol' => 'Our Solution',
+    'intgr' => 'Intergrated Security Platform',
+    'Core' => 'Core Features',
+    'Product' => 'Product Features',
+    'Pricing' => 'Pricing',
+    'contactMsg1' => 'Let `s have a chat !',
+    'FindOut' => 'Find out what we can do for your business or home.',
+    'SubmitContactUs' => 'Submit'
+];
+
+?>
